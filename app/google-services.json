@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "344115988112",
+    "firebase_url": "https://tpdmu3practica1brisenorosales.firebaseio.com",
+    "project_id": "tpdmu3practica1brisenorosales",
+    "storage_bucket": "tpdmu3practica1brisenorosales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344115988112:android:72d6f3293672933c85ba15",
+        "android_client_info": {
+          "package_name": "paulbriseno.ittepi.edu.mx.tpdm_u3_practica1_brisenorosales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344115988112-u3iav8l90h1ssrbo01vvfgdluah3ph4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "paulbriseno.ittepi.edu.mx.tpdm_u3_practica1_brisenorosales",
+            "certificate_hash": "0809f23d8da1acb4f84adf55657e158daa2b752f"
+          }
+        },
+        {
+          "client_id": "344115988112-lgvii31nq4a1u4is3o1m2g2s85gbt8pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL9NQ3XRgmrd0OLYVmxiBVOJGILc4ajDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344115988112-lgvii31nq4a1u4is3o1m2g2s85gbt8pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

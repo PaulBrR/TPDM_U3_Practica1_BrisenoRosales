@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TPDM_U3_Practica1_BrisenoRosales</string>
+
+    <array name="opcionesmenu">
+        <item>Agregar NUEVO pedido</item>
+        <item>Ver TODOS los pedidos</item>
+    </array>
+</resources>
